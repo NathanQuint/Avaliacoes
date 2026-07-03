@@ -186,4 +186,5 @@ O valor total a ser pago:
 R$ 💵 800.0 💵
 ====================================================
 
-
+Feito por: 
+Nathan Quintela Cardoso
