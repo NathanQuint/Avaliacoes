@@ -57,4 +57,5 @@
 * **Problema:** O código tentava carregar um arquivo de template que ainda não havia sido criado na árvore do projeto, gerando `TemplateDoesNotExist`.
 * **Correção:** Ajustada a view para evitar a quebra, inserindo temporariamente a referência do que a tela deve conter até a entrega do arquivo final.
 
+
 Feito por Nathan Quintela e João Victor de Medeiros
